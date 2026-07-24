@@ -4,7 +4,7 @@ The Sapori d’Italia Food Ordering System is a point-of-sale system developed f
 # References & Acknowledgements  
 The implementation of this system is an adaptation of code bases sourced from the following repositories, with frontend elements preserved but backend modules reworked:  
 1. Login GUI - https://github.com/codingWithElias/Login-SignUp-java-gui
-2. Base Restaurant Ordering System - https://github.com/codingWithElias/Login-SignUp-java-gui
+2. Base Restaurant Ordering System - https://github.com/adityanaganath/Restaurant-Ordering-System-GUI
 
 # Learning Objectives  
 This was a learning project at integrating backend and frontend components in Java using Swing and SQLite. The design decisions were made around the MVC (Model-View-Controller) architecture for better code organisation, modularity, and interface isolation. Design patterns were applied, like the Singleton pattern (used in database connection), Observer pattern (used for login-event listeners), and State pattern (for order cart state management).  
