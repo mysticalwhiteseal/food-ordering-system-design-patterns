@@ -16,4 +16,4 @@ The UI was adapted from existing projects, but all data logic and integration we
 - SQLite, connected through the JDBC API.
 
 # How to Run  
-Download the `.jar` file from the Releases tab and follow the instructions stated on the release notes.
+Download the `.zip` file from the Releases tab and follow the instructions stated on the release notes.
